@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-[Complete Jupyter Notebook](./heart_disease_prediction.ipynb)
+[📋 Complete Jupyter Notebook](./heart_disease_prediction.ipynb)
 
 ![](./header.jpg)
 
