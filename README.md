@@ -2,7 +2,7 @@
 
 [📋 Complete Jupyter Notebook](./heart_disease_prediction.ipynb)
 
-[👨‍ Kaggle](https://www.kaggle.com/fabijanbajo/heart-disease-prediction)
+[Kaggle Project](https://www.kaggle.com/fabijanbajo/heart-disease-prediction)
 
 ![](./header.jpg)
 
